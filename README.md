@@ -11,11 +11,11 @@ Source Data: http://statleaders.ufc.com/
 
 Attributes:
 
-  "Type of Record"- This attribute is a string and reprsents what type of record held by a fighter. Examples being "Total Fights" or "Win Streak".
+  "Type of Record"- This attribute is a string and reprsents what the type of record held by a fighter. Examples include "Total Fights" or "Win Streak".
   
   "Rank"- This attribute is an int that reprsents the order of which the fighters hold their record. For example fighter Jim Miller has a rank of 1 for the           "Total Fights" record. This means Jim Miller has had more fights than any other fighter.
   
   "Name"- This  attribute is a string that reprsents the name of each fighter in the data base.
   
-  "Total"- This attribute is of data type float and represents the actal number value for each record held by each fighter. For example the total value for            the "Total Fights" record held by Jim Miller is 41. This means Jim Miller has had a total 41 UFC fights in his career.
+  "Total"- This attribute is of data type float and represents the actal numerical value for each record held by each fighter. For example the total value            for the "Total Fights" record held by Jim Miller is 41. This means Jim Miller has had a total 41 UFC fights in his career.
   
