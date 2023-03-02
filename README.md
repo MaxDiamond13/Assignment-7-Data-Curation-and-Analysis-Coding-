@@ -1,4 +1,4 @@
-# Assignment-7-Data-Curation-and-Analysis-Coding-
+# Data-Curation-and-Analysis
 
 The goal of my project:
 
