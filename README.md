@@ -6,6 +6,8 @@ The goal of this project was to practice web-scraping using an API. In reguards 
 
 API: BeatutifulSoup Python Package
 
+License: MIT License 
+
 Source Data: http://statleaders.ufc.com/
 
 
