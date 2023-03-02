@@ -5,7 +5,7 @@ The goal of my project:
 The goal of this project was to practice web-scraping using an API. In reguards to my project topic, the goal was to analyze the career record stats of UFC fighters to provide arguments of who the top UFC fighters of all time are. 
 
 API: BeatutifulSoup Python Package
-License:
+
 Source Data: http://statleaders.ufc.com/
 
 
